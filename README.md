@@ -10,7 +10,7 @@ Laboratorio de operaciones de seguridad (SOC) construido en casa para aprender d
  
 Soy **Valeria Castro Maripán**, Técnico de Nivel Superior en Informática y estudiante de último año de Ingeniería en Informática con mención en Ciberseguridad (Chile).
  
-Antes de la informática trabajé 5 años como Técnico en Enfermería, 3 de ellos en urgencia adultos. Ahí aprendí a hacer **triage bajo presión**, y seguir protocolos estrictos y mantener trazabilidad sin errores. Hoy aplico esa misma forma de trabajar a la seguridad: un SOC también recibe alertas, prioriza por gravedad, investiga y escala a tiempo.
+Antes de la informática trabajé 5 años como Técnico en Enfermería, 3 de ellos en urgencia adultos. Ahí aprendí a hacer **triage bajo presión**, seguir protocolos estrictos y mantener trazabilidad sin errores. Hoy aplico esa misma forma de trabajar a la seguridad: un SOC también recibe alertas, prioriza por gravedad, investiga y escala a tiempo.
  
 Mi objetivo es trabajar como **Analista SOC**, idealmente en el **sector salud**, y especializarme en **Cloud Security**.
  
