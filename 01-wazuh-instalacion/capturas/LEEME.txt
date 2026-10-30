@@ -1,3 +1,0 @@
-Guarda aqui las capturas del Lab 01:
-- panel-wazuh.png
-- vmware-config.png

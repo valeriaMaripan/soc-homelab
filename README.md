@@ -54,7 +54,7 @@ flowchart LR
  
 | # | Laboratorio | Qué aprendí / detecté | MITRE ATT&CK | Estado |
 |---|---|---|---|---|
-| 01 | [Instalación de Wazuh](01-wazuh-instalacion/) | Montar un SIEM aislado y cambiar credenciales por defecto | — | 🔄 |
+| 01 | [Instalación de Wazuh](01-wazuh-instalacion/) | Montar un SIEM aislado y cambiar credenciales por defecto | — | ✅ |
 | 02 | [Agente en Linux](02-agente-linux/) | Conectar un servidor al SIEM y revisar su configuración (SCA) | — | 🔜 |
 | 03 | [Fuerza bruta SSH](03-fuerza-bruta-ssh/) | Detectar intentos masivos de acceso y endurecer SSH | T1110 | 🔜 |
 | 04 | [Integridad de archivos](04-integridad-archivos/) | Detectar creación, modificación y borrado de archivos críticos | — | 🔜 |

@@ -44,13 +44,17 @@ La máquina de Wazuh incluye sus tres componentes centrales en un solo equipo:
 
 ## Evidencia
 
-**Panel de Wazuh funcionando**
-
-![Panel de Wazuh](capturas/panel-wazuh.png)
-
-**Configuración de la máquina virtual en VMware (red NAT, 4 núcleos, 8 GB de RAM)**
+**Configuración de la máquina virtual en VMware:** 8 GB de RAM, 4 procesadores, 50 GB de disco y red NAT.
 
 ![Configuración en VMware](capturas/vmware-config.png)
+
+**Zona horaria e IP:** la hora del sistema quedó en `America/Santiago (-03)` con sincronización NTP activa, y la máquina obtuvo la IP privada `192.168.52.128` dentro de la red NAT del laboratorio.
+
+![Zona horaria e IP](capturas/timedatectl-ip.png)
+
+**Panel web de Wazuh funcionando:** sesión iniciada en el dashboard desde el navegador del equipo anfitrión.
+
+![Panel de Wazuh](capturas/panel-wazuh.png)
 
 ## Decisiones de seguridad
 
